@@ -7,7 +7,7 @@
 
 PyTorch implementation of the paper "SIFDriveNet: Speed and Image Fusion Driving Behavior Classification Network"
 
-
+This paper is published on IEEE Transactions on Computational Social Systems. [Link](https://ieeexplore.ieee.org/document/10225413)
 
 ## **Changelog**
 
